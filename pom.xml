@@ -66,7 +66,7 @@
       <dependency>
         <groupId>com.iefihz.cloud</groupId>
         <artifactId>springcloud-commons</artifactId>
-        <version>${version}</version>
+        <version>${project.version}</version>
       </dependency>
 
       <!-- lombok -->
